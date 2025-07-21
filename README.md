@@ -6,6 +6,7 @@ Monitor Microsoft Teams messages, analyze sentiment using Azure Cognitive Servic
 ## Youtube link: https://youtu.be/8qbqZdaa6yo
 
 ## Flow Chart 
+![](cst8917lab3.drawio.png)
 
 ## Steps
 
